@@ -37,6 +37,7 @@ body{
     .start__screen{
         background-image: url("images/bg_320.png");
         background-repeat: no-repeat;
+        background-size: 100%;
     }
 
     .nav{
